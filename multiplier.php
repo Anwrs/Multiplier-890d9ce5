@@ -8,6 +8,4 @@ $b = readline("");
 
 $c = $a + $b;
 
-echo $c;
-
-// echo "Uw resultaat is:" $a = ($b = $b) +  5";
+echo "Uw resultaat is:" .$c;
